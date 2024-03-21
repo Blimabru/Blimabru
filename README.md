@@ -10,12 +10,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Blimabru&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 
-#### Fale comigo:
-
-<a href="https://www.instagram.com/Bru.no_Lima" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:bru.no@outlook.com.br"><img src="https://img.shields.io/badge/Email-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-
-
 #### Algumas tecnologias que utilizo:
 
 
@@ -26,6 +20,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
+#### Fale comigo:
+
+<a href="https://www.instagram.com/Bru.no_Lima" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:bru.no@outlook.com.br"><img src="https://img.shields.io/badge/Email-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
 
 #### Contador de visitas:
 
